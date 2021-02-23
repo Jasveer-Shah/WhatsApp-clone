@@ -1,2 +1,2 @@
 # WhatsApp-clone
-This build gave me amazing learning experience.
+This build gave me an amazing learning experience.
